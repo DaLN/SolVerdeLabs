@@ -148,29 +148,29 @@ The community needs a Space for this, Transportation to go from and to the Space
 Provided that, the community will find like minded communities with whom they share a similar vision or Map to what the situation is, agree on a Plan to move forward and have systems to make the organization work (exchanges, disputes, succession, etc).
 
 ## Contact
-@nelsonm Telegram
-@daln Twitter
-@daelen Keybase
-[@daln](https://github.com/daln) Github
+* @nelsonm Telegram
+* @daln Twitter
+* @daelen Keybase
+* [@daln](https://github.com/daln) Github
 
 ## Resources
-Amara Valley Eco Retreat https://amaravalley.com/
-Protocol.Love https://cogov.tech/protocol.love/
-Principia Politica: fractal localism https://www.academia.edu/38433249/Principia_Politica
-Farmbot https://farm.bot/
-Valldaura Labs https://valldaura.net/ 
-Project Romi https://valldaura.net/romi/
-Commons Stack https://commonsstack.org/
-Grassroots Economics https://www.grassrootseconomics.org/
-Fuse.io https://fuse.io/
-Continuous Organizations whitepaper https://github.com/C-ORG/whitepaper
-Enspiral https://enspiral.com/
-The Unplugged https://www.shareable.net/the-unplugged/
-OS Beehives https://www.osbeehives.com/
-AKER Kits https://akerkits.com/
-Protocol.Love https://cogov.tech/protocol.love
-Geoship https://geoship.is
-Ecocapsule https://ecocapsule.sk/
+* Amara Valley Eco Retreat https://amaravalley.com/
+* Protocol.Love https://cogov.tech/protocol.love/
+* Principia Politica: fractal localism https://www.academia.edu/38433249/Principia_Politica
+* Farmbot https://farm.bot/
+* Valldaura Labs https://valldaura.net/ 
+* Project Romi https://valldaura.net/romi/
+* Commons Stack https://commonsstack.org/
+* Grassroots Economics https://www.grassrootseconomics.org/
+* Fuse.io https://fuse.io/
+* Continuous Organizations whitepaper https://github.com/C-ORG/whitepaper
+* Enspiral https://enspiral.com/
+* The Unplugged https://www.shareable.net/the-unplugged/
+* OS Beehives https://www.osbeehives.com/
+* AKER Kits https://akerkits.com/
+* Protocol.Love https://cogov.tech/protocol.love
+* Geoship https://geoship.is
+* Ecocapsule https://ecocapsule.sk/
 
 ### Key aspects:
 * Circular economies
